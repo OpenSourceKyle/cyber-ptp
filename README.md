@@ -7,4 +7,4 @@ A minimalist, single-page Hugo site listing curated cybersecurity bookmarks and 
 To clone this repository with all its submodules, use:
 
 ```bash
-git clone --recursive https://github.com/thekylewitty/cyber-bookmarks.git
+git clone --recursive https://github.com/thekylewitty/cyber-ptp.git
