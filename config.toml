@@ -1,0 +1,12 @@
+baseURL = "/"
+title = "Cyber Bookmarks"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "auto"
+ShowToc = true
+TocOpen = true
+
+[params.homeInfoParams]
+Title = "Bookmarks"
+Content = "Useful cyber security and general computer bookmarks"
