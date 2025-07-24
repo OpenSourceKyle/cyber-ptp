@@ -1,6 +1,6 @@
-# Cybersecurity Bookmarks
+# PTP Notes
 
-A minimalist, single-page Hugo site listing curated cybersecurity bookmarks and references.
+ Study notes and tools for networking, web app hacking, penetration testing, and basic programming (C++, Python). Includes HTTP/S, cookies, SQLi, XSS, enumeration, nmap usage, and more.
 
 ## Getting Started
 
